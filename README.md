@@ -1,4 +1,14 @@
-### Hi there 👋
+### Call me Eiki 👋
+
+I'm a brazilian developer with experience in entrepreneurship and research in Human-Computer Interaction. I love creating new interactive experiences for users.
+
+- 🔭 I’m working on [Vivros](https://vivros.com), an EdTech startup that creates paper books that are interactive with our app.
+- 👯 I’m always down to help people with whatever I can! Hit me up.
+- 😄 He/him
+
+[![Linkedin Badge](https://img.shields.io/badge/Website-red?style=for-the-badge&logo=google-chrome&logoColor=white)](https://rafaeleiki.com)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rafaelimamura/)
+[![Linkedin Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/eikirafael/)
 
 <!--
 **rafaeleiki/rafaeleiki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
