@@ -3,7 +3,6 @@
 I'm a brazilian developer with experience in entrepreneurship and research in Human-Computer Interaction. I love creating new interactive experiences for users.
 
 - 🖥️ I'm working at [LiftVentures](https://www.liftventures.com/) as a Senior Software Engineer.
-- 🔭 I've created [Vivros](https://vivros.com), an EdTech startup that creates paper books that are interactive with our app.
 - 👯 I’m always down to help people with whatever I can! Hit me up.
 - 😄 He/him
 
