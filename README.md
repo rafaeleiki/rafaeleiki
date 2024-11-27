@@ -2,7 +2,7 @@
 
 I'm a brazilian developer with experience in entrepreneurship and research in Human-Computer Interaction. I love creating new interactive experiences for users.
 
-- 🖥️ I'm working at [LiftVentures](https://www.liftventures.com/) as a Senior Software Engineer.
+- 🖥️ I'm working at [LiftVentures](https://www.liftventures.com/) as a Software Engineering Manager.
 - 👯 I’m always down to help people with whatever I can! Hit me up.
 - 😄 He/him
 
